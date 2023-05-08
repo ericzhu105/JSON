@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 25,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "type": "home",
+          "number": "555-1234"
+        },
+        {
+          "type": "work",
+          "number": "555-5678"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 32,
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Othertown",
+        "state": "NY",
+        "zip": "67890"
+      },
+      "phone": [
+        {
+          "type": "home",
+          "number": "555-4321"
+        },
+        {
+          "type": "work",
+          "number": "555-8765"
+        }
+      ]
+    }
+  ]
+}
